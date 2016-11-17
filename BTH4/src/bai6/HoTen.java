@@ -24,7 +24,7 @@ public class HoTen {
         return output;
     }
     public static void main(String[] args) {
-        String name = "Tran Nguyen Nga Huyen";
+        String name = "Phạm Tuấn Sang";
         System.out.println(chuyenHoTen(name));
     }
 }
